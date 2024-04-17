@@ -1,0 +1,2 @@
+robot_pkg
+-DCATKIN_DEVEL_PREFIX=/home/stark/robot_four/devel -DCMAKE_INSTALL_PREFIX=/home/stark/robot_four/install -G Unix Makefiles
